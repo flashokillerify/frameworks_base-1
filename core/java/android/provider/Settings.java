@@ -5213,6 +5213,18 @@ public final class Settings {
         public static final String GLOBAL_ACTIONS_LIST = "global_actions_list";
 
         /**
+         * Which Vibration Pattern to use
+         * 0: dzzz-dzzz
+         * 1: dzzz-da
+         * 2: mm-mm-mm
+         * 3: da-da-dzzz
+         * 4: da-dzzz-da
+         * @hide
+         */
+        @Readable
+        public static final String RINGTONE_VIBRATION_PATTERN = "ringtone_vibration_pattern";
+
+        /**
          * Double tap on lockscreen to sleep
          * @hide
          */
