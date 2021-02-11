@@ -51,6 +51,10 @@
     <!-- Statusbar tuner -->
     <string name="statusbar_items_title">Statusbar icons</string>
 
+    <!-- AlertSlider -->
+    <string name="alert_slider_mode_priority_text">Priority</string>
+    <string name="alert_slider_mode_dnd_text">DND</string>
+
     <!-- Name of the VPN status bar icon. -->
     <string name="status_bar_vpn">VPN</string>
 
